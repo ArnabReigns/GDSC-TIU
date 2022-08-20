@@ -1,0 +1,7 @@
+.sessionCard
+{
+    background: linear-gradient(to right,#4286f4af 70%, #34A853 );
+    backdrop-filter: blur(2px);
+    box-shadow: 0 0 5px -2px rgba(0, 0, 0, 0.482);
+    border-radius: 5px;
+}
